@@ -1,4 +1,4 @@
-# Week 2 - Learning Journal
+# Week 3 - Learning Journal
 
 ## Learning Activities & Resources
 
