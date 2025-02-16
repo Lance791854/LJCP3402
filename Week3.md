@@ -8,7 +8,7 @@ I then changed the site and included content from my Joomla site to fill it out.
 
 Made use of Hetzner docs and WordPress docs when I needed to do something.
 
-I have used Hetzner before for other tasks so was familiar with setting stuff up. Also have used WordPress for a couple of other projects so I was familiar with it.
+I have used Hetzner before for other tasks so was familiar with setting stuff up. Also have used WordPress for a couple of other projects so I was familiar with that as well.
 
 ## Estimated Hours
 
